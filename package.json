@@ -6,7 +6,7 @@
   "description": "React specific wrapper for heavy-navbar",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic.git"
+    "url": "https://github.com/HeavyLightStudios/heavy-navbar-react"
   },
   "scripts": {
     "build": "npm run clean && npm run compile",
